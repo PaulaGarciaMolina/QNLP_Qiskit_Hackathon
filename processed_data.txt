@@ -1,0 +1,86 @@
+frightened man._att_3
+frightened woman._att_3
+frightened kid._att_3
+cheerful man._att_0
+cheerful woman._att_0
+cheerful kid._att_0
+gloomy man._att_1
+gloomy woman._att_1
+gloomy kid._att_1
+furious man._att_2
+furious woman._att_2
+furious kid._att_2
+terrified man._att_3
+terrified woman._att_3
+terrified kid._att_3
+sensitive man cries._int_1
+sensitive man snaps._int_1
+sensitive woman cries._int_1
+sensitive woman snaps._int_1
+sensitive kid cries._int_1
+sensitive kid snaps._int_1
+irascible man cries._int_2
+irascible man shouts._int_2
+irascible man snaps._int_2
+irascible woman cries._int_2
+irascible woman shouts._int_2
+irascible woman snaps._int_2
+irascible kid cries._int_2
+irascible kid shouts._int_2
+irascible kid snaps._int_2
+frightened man cries._int_3
+frightened man shouts._int_3
+frightened woman cries._int_3
+frightened woman shouts._int_3
+frightened kid cries._int_3
+frightened kid shouts._int_3
+cheerful man cries._int_0
+cheerful man laughs._int_0
+cheerful woman cries._int_0
+cheerful woman laughs._int_0
+cheerful kid cries._int_0
+cheerful kid laughs._int_0
+gloomy man cries._int_1
+gloomy man snaps._int_1
+gloomy woman cries._int_1
+gloomy woman snaps._int_1
+gloomy kid cries._int_1
+gloomy kid snaps._int_1
+furious man cries._int_2
+furious man shouts._int_2
+furious man snaps._int_2
+furious woman cries._int_2
+furious woman shouts._int_2
+furious woman snaps._int_2
+furious kid cries._int_2
+furious kid shouts._int_2
+furious kid snaps._int_2
+terrified man cries._int_3
+terrified man shouts._int_3
+terrified woman cries._int_3
+terrified woman shouts._int_3
+terrified kid cries._int_3
+terrified kid shouts._int_3
+old man laughs._int_0
+old woman laughs._int_0
+young man laughs._int_0
+young woman laughs._int_0
+young kid laughs._int_0
+man grieves man._tra_1
+man grieves woman._tra_1
+man grieves kid._tra_1
+man startles man._tra_3
+man startles woman._tra_3
+man startles kid._tra_3
+woman grieves man._tra_1
+woman grieves woman._tra_1
+woman grieves kid._tra_1
+woman startles man._tra_3
+woman startles woman._tra_3
+woman startles kid._tra_3
+kid grieves man._tra_1
+kid grieves woman._tra_1
+kid grieves kid._tra_1
+kid startles man._tra_3
+kid startles woman._tra_3
+kid startles kid._tra_3
