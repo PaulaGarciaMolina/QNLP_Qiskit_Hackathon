@@ -10,7 +10,7 @@ morose kid cries._int_1
 morose kid shouts._int_1
 morose kid laughs._int_0
 morose kid snaps._int_2
-irascible woman cries._int_1 
+irascible woman cries._int_1
 irascible woman shouts._int_2
 irascible woman laughs._int_0
 irascible woman snaps._int_2
