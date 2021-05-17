@@ -1,12 +1,9 @@
 morose woman cries._int_1
 morose woman shouts._int_1
-morose woman snaps._int_2
 morose man cries._int_1
 morose man shouts._int_1
-morose man snaps._int_2
 morose kid cries._int_1
 morose kid shouts._int_1
-morose kid snaps._int_2
 irascible woman shouts._int_2
 irascible woman snaps._int_2
 irascible man shouts._int_2
