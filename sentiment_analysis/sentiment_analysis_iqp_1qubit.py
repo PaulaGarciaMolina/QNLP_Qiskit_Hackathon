@@ -75,7 +75,7 @@ for sentence in sentences_tra:
     diagram = parsing_tra[sentence]
     data_psr[sentence] = parsing_tra[sentence]
     
-with open('./sentiment_even_larger.txt') as f:
+with open('./sentiment_large_corrected_balanced.txt') as f:
     data = f.readlines()
     
 labels_dict = {}
@@ -416,7 +416,7 @@ c_fix = 0.1
 a_est = 0.015  
 
 n_runs = 1
-niter = 100
+niter = 150
 param_histories = []
 cost_histories = np.zeros((n_runs, niter))
 error_train_histories = np.zeros((n_runs, niter))
