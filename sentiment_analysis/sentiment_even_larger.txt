@@ -1,0 +1,549 @@
+morose man cries._int_1
+morose man shouts._int_1
+morose woman cries._int_1
+morose woman shouts._int_1
+morose kid cries._int_1
+morose kid shouts._int_1
+irascible man cries._int_2
+irascible man shouts._int_2
+irascible man snaps._int_2
+irascible woman cries._int_2
+irascible woman shouts._int_2
+irascible woman snaps._int_2
+irascible kid cries._int_2
+irascible kid shouts._int_2
+irascible kid snaps._int_2
+frightened man cries._int_3
+frightened man shouts._int_3
+frightened man snaps._int_3
+frightened woman cries._int_3
+frightened woman shouts._int_3
+frightened woman snaps._int_3
+frightened kid cries._int_3
+frightened kid shouts._int_3
+frightened kid snaps._int_3
+cheerful man cries._int_0
+cheerful man shouts._int_0
+cheerful man laughs._int_0
+cheerful woman cries._int_0
+cheerful woman shouts._int_0
+cheerful woman laughs._int_0
+cheerful kid cries._int_0
+cheerful kid shouts._int_0
+cheerful kid laughs._int_0
+gloomy man cries._int_1
+gloomy man shouts._int_1
+gloomy woman cries._int_1
+gloomy woman shouts._int_1
+gloomy kid cries._int_1
+gloomy kid shouts._int_1
+furious man cries._int_2
+furious man shouts._int_2
+furious man snaps._int_2
+furious woman cries._int_2
+furious woman shouts._int_2
+furious woman snaps._int_2
+furious kid cries._int_2
+furious kid shouts._int_2
+furious kid snaps._int_2
+terrified man cries._int_3
+terrified man shouts._int_3
+terrified man snaps._int_3
+terrified woman cries._int_3
+terrified woman shouts._int_3
+terrified woman snaps._int_3
+terrified kid cries._int_3
+terrified kid shouts._int_3
+terrified kid snaps._int_3
+joyful man cries._int_0
+joyful man shouts._int_0
+joyful man laughs._int_0
+joyful woman cries._int_0
+joyful woman shouts._int_0
+joyful woman laughs._int_0
+joyful kid cries._int_0
+joyful kid shouts._int_0
+joyful kid laughs._int_0
+content man cries._int_0
+content man shouts._int_0
+content man laughs._int_0
+content woman cries._int_0
+content woman shouts._int_0
+content woman laughs._int_0
+content kid cries._int_0
+content kid shouts._int_0
+content kid laughs._int_0
+jolly man cries._int_0
+jolly man shouts._int_0
+jolly man laughs._int_0
+jolly woman cries._int_0
+jolly woman shouts._int_0
+jolly woman laughs._int_0
+jolly kid cries._int_0
+jolly kid shouts._int_0
+jolly kid laughs._int_0
+downcast man cries._int_1
+downcast man shouts._int_1
+downcast woman cries._int_1
+downcast woman shouts._int_1
+downcast kid cries._int_1
+downcast kid shouts._int_1
+miserable man cries._int_1
+miserable man shouts._int_1
+miserable woman cries._int_1
+miserable woman shouts._int_1
+miserable kid cries._int_1
+miserable kid shouts._int_1
+mad man cries._int_2
+mad man shouts._int_2
+mad man snaps._int_2
+mad woman cries._int_2
+mad woman shouts._int_2
+mad woman snaps._int_2
+mad kid cries._int_2
+mad kid shouts._int_2
+mad kid snaps._int_2
+angered man cries._int_2
+angered man shouts._int_2
+angered man snaps._int_2
+angered woman cries._int_2
+angered woman shouts._int_2
+angered woman snaps._int_2
+angered kid cries._int_2
+angered kid shouts._int_2
+angered kid snaps._int_2
+afraid man cries._int_3
+afraid man shouts._int_3
+afraid man snaps._int_3
+afraid woman cries._int_3
+afraid woman shouts._int_3
+afraid woman snaps._int_3
+afraid kid cries._int_3
+afraid kid shouts._int_3
+afraid kid snaps._int_3
+horrified man cries._int_3
+horrified man shouts._int_3
+horrified man snaps._int_3
+horrified woman cries._int_3
+horrified woman shouts._int_3
+horrified woman snaps._int_3
+horrified kid cries._int_3
+horrified kid shouts._int_3
+horrified kid snaps._int_3
+man grieves man._tra_1
+man grieves woman._tra_1
+man grieves kid._tra_1
+man startles man._tra_3
+man startles woman._tra_3
+man startles kid._tra_3
+man entertains man._tra_0
+man entertains woman._tra_0
+man entertains kid._tra_0
+man irritates man._tra_2
+man irritates woman._tra_2
+man irritates kid._tra_2
+woman grieves man._tra_1
+woman grieves woman._tra_1
+woman grieves kid._tra_1
+woman startles man._tra_3
+woman startles woman._tra_3
+woman startles kid._tra_3
+woman entertains man._tra_0
+woman entertains woman._tra_0
+woman entertains kid._tra_0
+woman irritates man._tra_2
+woman irritates woman._tra_2
+woman irritates kid._tra_2
+kid grieves man._tra_1
+kid grieves woman._tra_1
+kid grieves kid._tra_1
+kid startles man._tra_3
+kid startles woman._tra_3
+kid startles kid._tra_3
+kid entertains man._tra_0
+kid entertains woman._tra_0
+kid entertains kid._tra_0
+kid irritates man._tra_2
+kid irritates woman._tra_2
+kid irritates kid._tra_2
+morose man grieves man._tra_1
+morose man grieves woman._tra_1
+morose man grieves kid._tra_1
+morose woman grieves man._tra_1
+morose woman grieves woman._tra_1
+morose woman grieves kid._tra_1
+morose kid grieves man._tra_1
+morose kid grieves woman._tra_1
+morose kid grieves kid._tra_1
+irascible man irritates man._tra_2
+irascible man irritates woman._tra_2
+irascible man irritates kid._tra_2
+irascible woman irritates man._tra_2
+irascible woman irritates woman._tra_2
+irascible woman irritates kid._tra_2
+irascible kid irritates man._tra_2
+irascible kid irritates woman._tra_2
+irascible kid irritates kid._tra_2
+frightened man startles man._tra_3
+frightened man startles woman._tra_3
+frightened man startles kid._tra_3
+frightened woman startles man._tra_3
+frightened woman startles woman._tra_3
+frightened woman startles kid._tra_3
+frightened kid startles man._tra_3
+frightened kid startles woman._tra_3
+frightened kid startles kid._tra_3
+cheerful man entertains man._tra_0
+cheerful man entertains woman._tra_0
+cheerful man entertains kid._tra_0
+cheerful woman entertains man._tra_0
+cheerful woman entertains woman._tra_0
+cheerful woman entertains kid._tra_0
+cheerful kid entertains man._tra_0
+cheerful kid entertains woman._tra_0
+cheerful kid entertains kid._tra_0
+gloomy man grieves man._tra_1
+gloomy man grieves woman._tra_1
+gloomy man grieves kid._tra_1
+gloomy woman grieves man._tra_1
+gloomy woman grieves woman._tra_1
+gloomy woman grieves kid._tra_1
+gloomy kid grieves man._tra_1
+gloomy kid grieves woman._tra_1
+gloomy kid grieves kid._tra_1
+furious man irritates man._tra_2
+furious man irritates woman._tra_2
+furious man irritates kid._tra_2
+furious woman irritates man._tra_2
+furious woman irritates woman._tra_2
+furious woman irritates kid._tra_2
+furious kid irritates man._tra_2
+furious kid irritates woman._tra_2
+furious kid irritates kid._tra_2
+terrified man startles man._tra_3
+terrified man startles woman._tra_3
+terrified man startles kid._tra_3
+terrified woman startles man._tra_3
+terrified woman startles woman._tra_3
+terrified woman startles kid._tra_3
+terrified kid startles man._tra_3
+terrified kid startles woman._tra_3
+terrified kid startles kid._tra_3
+joyful man entertains man._tra_0
+joyful man entertains woman._tra_0
+joyful man entertains kid._tra_0
+joyful woman entertains man._tra_0
+joyful woman entertains woman._tra_0
+joyful woman entertains kid._tra_0
+joyful kid entertains man._tra_0
+joyful kid entertains woman._tra_0
+joyful kid entertains kid._tra_0
+old man grieves man._tra_1
+old man grieves woman._tra_1
+old man grieves kid._tra_1
+old man startles man._tra_3
+old man startles woman._tra_3
+old man startles kid._tra_3
+old man entertains man._tra_0
+old man entertains woman._tra_0
+old man entertains kid._tra_0
+old man irritates man._tra_2
+old man irritates woman._tra_2
+old man irritates kid._tra_2
+old woman grieves man._tra_1
+old woman grieves woman._tra_1
+old woman grieves kid._tra_1
+old woman startles man._tra_3
+old woman startles woman._tra_3
+old woman startles kid._tra_3
+old woman entertains man._tra_0
+old woman entertains woman._tra_0
+old woman entertains kid._tra_0
+old woman irritates man._tra_2
+old woman irritates woman._tra_2
+old woman irritates kid._tra_2
+young man grieves man._tra_1
+young man grieves woman._tra_1
+young man grieves kid._tra_1
+young man startles man._tra_3
+young man startles woman._tra_3
+young man startles kid._tra_3
+young man entertains man._tra_0
+young man entertains woman._tra_0
+young man entertains kid._tra_0
+young man irritates man._tra_2
+young man irritates woman._tra_2
+young man irritates kid._tra_2
+young woman grieves man._tra_1
+young woman grieves woman._tra_1
+young woman grieves kid._tra_1
+young woman startles man._tra_3
+young woman startles woman._tra_3
+young woman startles kid._tra_3
+young woman entertains man._tra_0
+young woman entertains woman._tra_0
+young woman entertains kid._tra_0
+young woman irritates man._tra_2
+young woman irritates woman._tra_2
+young woman irritates kid._tra_2
+young kid grieves man._tra_1
+young kid grieves woman._tra_1
+young kid grieves kid._tra_1
+young kid startles man._tra_3
+young kid startles woman._tra_3
+young kid startles kid._tra_3
+young kid entertains man._tra_0
+young kid entertains woman._tra_0
+young kid entertains kid._tra_0
+young kid irritates man._tra_2
+young kid irritates woman._tra_2
+young kid irritates kid._tra_2
+content man entertains man._tra_0
+content man entertains woman._tra_0
+content man entertains kid._tra_0
+content woman entertains man._tra_0
+content woman entertains woman._tra_0
+content woman entertains kid._tra_0
+content kid entertains man._tra_0
+content kid entertains woman._tra_0
+content kid entertains kid._tra_0
+jolly man entertains man._tra_0
+jolly man entertains woman._tra_0
+jolly man entertains kid._tra_0
+jolly woman entertains man._tra_0
+jolly woman entertains woman._tra_0
+jolly woman entertains kid._tra_0
+jolly kid entertains man._tra_0
+jolly kid entertains woman._tra_0
+jolly kid entertains kid._tra_0
+downcast man grieves man._tra_1
+downcast man grieves woman._tra_1
+downcast man grieves kid._tra_1
+downcast woman grieves man._tra_1
+downcast woman grieves woman._tra_1
+downcast woman grieves kid._tra_1
+downcast kid grieves man._tra_1
+downcast kid grieves woman._tra_1
+downcast kid grieves kid._tra_1
+miserable man grieves man._tra_1
+miserable man grieves woman._tra_1
+miserable man grieves kid._tra_1
+miserable woman grieves man._tra_1
+miserable woman grieves woman._tra_1
+miserable woman grieves kid._tra_1
+miserable kid grieves man._tra_1
+miserable kid grieves woman._tra_1
+miserable kid grieves kid._tra_1
+mad man irritates man._tra_2
+mad man irritates woman._tra_2
+mad man irritates kid._tra_2
+mad woman irritates man._tra_2
+mad woman irritates woman._tra_2
+mad woman irritates kid._tra_2
+mad kid irritates man._tra_2
+mad kid irritates woman._tra_2
+mad kid irritates kid._tra_2
+angered man irritates man._tra_2
+angered man irritates woman._tra_2
+angered man irritates kid._tra_2
+angered woman irritates man._tra_2
+angered woman irritates woman._tra_2
+angered woman irritates kid._tra_2
+angered kid irritates man._tra_2
+angered kid irritates woman._tra_2
+angered kid irritates kid._tra_2
+afraid man startles man._tra_3
+afraid man startles woman._tra_3
+afraid man startles kid._tra_3
+afraid woman startles man._tra_3
+afraid woman startles woman._tra_3
+afraid woman startles kid._tra_3
+afraid kid startles man._tra_3
+afraid kid startles woman._tra_3
+afraid kid startles kid._tra_3
+horrified man startles man._tra_3
+horrified man startles woman._tra_3
+horrified man startles kid._tra_3
+horrified woman startles man._tra_3
+horrified woman startles woman._tra_3
+horrified woman startles kid._tra_3
+horrified kid startles man._tra_3
+horrified kid startles woman._tra_3
+horrified kid startles kid._tra_3
+man grieves old man._tra_1
+man grieves old woman._tra_1
+man grieves young man._tra_1
+man grieves young woman._tra_1
+man grieves young kid._tra_1
+man startles frightened man._tra_3
+man startles frightened woman._tra_3
+man startles frightened kid._tra_3
+man startles terrified man._tra_3
+man startles terrified woman._tra_3
+man startles terrified kid._tra_3
+man startles old man._tra_3
+man startles old woman._tra_3
+man startles old kid._tra_3
+man startles young man._tra_3
+man startles young woman._tra_3
+man startles young kid._tra_3
+man startles afraid man._tra_3
+man startles afraid woman._tra_3
+man startles afraid kid._tra_3
+man startles horrified man._tra_3
+man startles horrified woman._tra_3
+man startles horrified kid._tra_3
+man entertains cheerful man._tra_0
+man entertains cheerful woman._tra_0
+man entertains cheerful kid._tra_0
+man entertains joyful man._tra_0
+man entertains joyful woman._tra_0
+man entertains joyful kid._tra_0
+man entertains old man._tra_0
+man entertains old woman._tra_0
+man entertains old kid._tra_0
+man entertains young man._tra_0
+man entertains young woman._tra_0
+man entertains young kid._tra_0
+man entertains content man._tra_0
+man entertains content woman._tra_0
+man entertains content kid._tra_0
+man entertains jolly man._tra_0
+man entertains jolly woman._tra_0
+man entertains jolly kid._tra_0
+man irritates irascible man._tra_2
+man irritates irascible woman._tra_2
+man irritates irascible kid._tra_2
+man irritates furious man._tra_2
+man irritates furious woman._tra_2
+man irritates furious kid._tra_2
+man irritates old man._tra_2
+man irritates old woman._tra_2
+man irritates old kid._tra_2
+man irritates young man._tra_2
+man irritates young woman._tra_2
+man irritates young kid._tra_2
+man irritates mad man._tra_2
+man irritates mad woman._tra_2
+man irritates mad kid._tra_2
+man irritates angered man._tra_2
+man irritates angered woman._tra_2
+man irritates angered kid._tra_2
+woman grieves old man._tra_1
+woman grieves old woman._tra_1
+woman grieves young man._tra_1
+woman grieves young woman._tra_1
+woman grieves young kid._tra_1
+woman startles frightened man._tra_3
+woman startles frightened woman._tra_3
+woman startles frightened kid._tra_3
+woman startles terrified man._tra_3
+woman startles terrified woman._tra_3
+woman startles terrified kid._tra_3
+woman startles old man._tra_3
+woman startles old woman._tra_3
+woman startles old kid._tra_3
+woman startles young man._tra_3
+woman startles young woman._tra_3
+woman startles young kid._tra_3
+woman startles afraid man._tra_3
+woman startles afraid woman._tra_3
+woman startles afraid kid._tra_3
+woman startles horrified man._tra_3
+woman startles horrified woman._tra_3
+woman startles horrified kid._tra_3
+woman entertains cheerful man._tra_0
+woman entertains cheerful woman._tra_0
+woman entertains cheerful kid._tra_0
+woman entertains joyful man._tra_0
+woman entertains joyful woman._tra_0
+woman entertains joyful kid._tra_0
+woman entertains old man._tra_0
+woman entertains old woman._tra_0
+woman entertains old kid._tra_0
+woman entertains young man._tra_0
+woman entertains young woman._tra_0
+woman entertains young kid._tra_0
+woman entertains content man._tra_0
+woman entertains content woman._tra_0
+woman entertains content kid._tra_0
+woman entertains jolly man._tra_0
+woman entertains jolly woman._tra_0
+woman entertains jolly kid._tra_0
+woman irritates irascible man._tra_2
+woman irritates irascible woman._tra_2
+woman irritates irascible kid._tra_2
+woman irritates furious man._tra_2
+woman irritates furious woman._tra_2
+woman irritates furious kid._tra_2
+woman irritates old man._tra_2
+woman irritates old woman._tra_2
+woman irritates old kid._tra_2
+woman irritates young man._tra_2
+woman irritates young woman._tra_2
+woman irritates young kid._tra_2
+woman irritates mad man._tra_2
+woman irritates mad woman._tra_2
+woman irritates mad kid._tra_2
+woman irritates angered man._tra_2
+woman irritates angered woman._tra_2
+woman irritates angered kid._tra_2
+kid grieves old man._tra_1
+kid grieves old woman._tra_1
+kid grieves young man._tra_1
+kid grieves young woman._tra_1
+kid grieves young kid._tra_1
+kid startles frightened man._tra_3
+kid startles frightened woman._tra_3
+kid startles frightened kid._tra_3
+kid startles terrified man._tra_3
+kid startles terrified woman._tra_3
+kid startles terrified kid._tra_3
+kid startles old man._tra_3
+kid startles old woman._tra_3
+kid startles old kid._tra_3
+kid startles young man._tra_3
+kid startles young woman._tra_3
+kid startles young kid._tra_3
+kid startles afraid man._tra_3
+kid startles afraid woman._tra_3
+kid startles afraid kid._tra_3
+kid startles horrified man._tra_3
+kid startles horrified woman._tra_3
+kid startles horrified kid._tra_3
+kid entertains cheerful man._tra_0
+kid entertains cheerful woman._tra_0
+kid entertains cheerful kid._tra_0
+kid entertains joyful man._tra_0
+kid entertains joyful woman._tra_0
+kid entertains joyful kid._tra_0
+kid entertains old man._tra_0
+kid entertains old woman._tra_0
+kid entertains old kid._tra_0
+kid entertains young man._tra_0
+kid entertains young woman._tra_0
+kid entertains young kid._tra_0
+kid entertains content man._tra_0
+kid entertains content woman._tra_0
+kid entertains content kid._tra_0
+kid entertains jolly man._tra_0
+kid entertains jolly woman._tra_0
+kid entertains jolly kid._tra_0
+kid irritates irascible man._tra_2
+kid irritates irascible woman._tra_2
+kid irritates irascible kid._tra_2
+kid irritates furious man._tra_2
+kid irritates furious woman._tra_2
+kid irritates furious kid._tra_2
+kid irritates old man._tra_2
+kid irritates old woman._tra_2
+kid irritates old kid._tra_2
+kid irritates young man._tra_2
+kid irritates young woman._tra_2
+kid irritates young kid._tra_2
+kid irritates mad man._tra_2
+kid irritates mad woman._tra_2
+kid irritates mad kid._tra_2
+kid irritates angered man._tra_2
+kid irritates angered woman._tra_2
+kid irritates angered kid._tra_2
