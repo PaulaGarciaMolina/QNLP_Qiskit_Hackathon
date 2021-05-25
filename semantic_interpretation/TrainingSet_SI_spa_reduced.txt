@@ -63,3 +63,28 @@ hombre rompe sillon viejo.
 hombre rompe coche nuevo.
 hombre rompe coche azul.
 hombre rompe sillon azul.
+mujer roba cuaderno.
+hombre rompe coche.
+mujer compra coche viejo.
+mujer compra coche rojo.
+mujer compra cuaderno rojo.
+mujer roba coche nuevo.
+mujer roba sillon rojo.
+mujer roba sillon azul.
+mujer rompe coche viejo.
+mujer rompe cuaderno rojo.
+mujer rompe sillon azul.
+hombre compra coche rojo.
+hombre compra sillon rojo.
+hombre compra cuaderno rojo.
+hombre roba coche nuevo.
+hombre roba cuaderno nuevo.
+hombre roba sillon azul.
+hombre roba cuaderno azul.
+hombre rompe cuaderno viejo.
+hombre rompe sillon nuevo.
+hombre rompe cuaderno nuevo.
+hombre rompe coche rojo.
+hombre rompe sillon rojo.
+hombre rompe cuaderno rojo.
+hombre rompe cuaderno azul.
