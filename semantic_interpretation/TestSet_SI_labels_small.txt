@@ -1,0 +1,400 @@
+man buys car._hombre compra coche._1
+man buys car._hombre rompe cuaderno._x
+man buys car._hombre roba cuaderno._x
+man buys car._mujer rompe coche._x
+man buys car._mujer compra sofa._x
+man buys car._hombre compra coche viejo._x
+man buys car._hombre compra cuaderno nuevo._x
+man buys car._hombre compra sofa azul._x
+man buys car._hombre rompe coche azul._x
+man buys car._mujer roba sofa viejo._x
+man buys car._mujer roba cuaderno nuevo._x
+man buys car._mujer roba cuaderno rojo._x
+man buys car._mujer rompe sofa nuevo._x
+man buys car._mujer rompe coche rojo._x
+man buys car._hombre compra cuaderno azul._x
+man buys car._hombre roba coche viejo._x
+man buys car._hombre roba cuaderno rojo._x
+man buys car._mujer roba coche viejo._x
+man buys car._mujer rompe sofa viejo._x
+man buys car._mujer rompe coche azul._x
+man breaks notebook._hombre compra coche._x
+man breaks notebook._hombre rompe cuaderno._x
+man breaks notebook._hombre roba cuaderno._x
+man breaks notebook._mujer rompe coche._x
+man breaks notebook._mujer compra sofa._x
+man breaks notebook._hombre compra coche viejo._x
+man breaks notebook._hombre compra cuaderno nuevo._x
+man breaks notebook._hombre compra sofa azul._x
+man breaks notebook._hombre rompe coche azul._x
+man breaks notebook._mujer roba sofa viejo._x
+man breaks notebook._mujer roba cuaderno nuevo._x
+man breaks notebook._mujer roba cuaderno rojo._x
+man breaks notebook._mujer rompe sofa nuevo._x
+man breaks notebook._mujer rompe coche rojo._x
+man breaks notebook._hombre compra cuaderno azul._x
+man breaks notebook._hombre roba coche viejo._x
+man breaks notebook._hombre roba cuaderno rojo._x
+man breaks notebook._mujer roba coche viejo._x
+man breaks notebook._mujer rompe sofa viejo._x
+man breaks notebook._mujer rompe coche azul._x
+man steals notebook._hombre compra coche._x
+man steals notebook._hombre rompe cuaderno._x
+man steals notebook._hombre roba cuaderno._x
+man steals notebook._mujer rompe coche._x
+man steals notebook._mujer compra sofa._x
+man steals notebook._hombre compra coche viejo._x
+man steals notebook._hombre compra cuaderno nuevo._x
+man steals notebook._hombre compra sofa azul._x
+man steals notebook._hombre rompe coche azul._x
+man steals notebook._mujer roba sofa viejo._x
+man steals notebook._mujer roba cuaderno nuevo._x
+man steals notebook._mujer roba cuaderno rojo._x
+man steals notebook._mujer rompe sofa nuevo._x
+man steals notebook._mujer rompe coche rojo._x
+man steals notebook._hombre compra cuaderno azul._x
+man steals notebook._hombre roba coche viejo._x
+man steals notebook._hombre roba cuaderno rojo._x
+man steals notebook._mujer roba coche viejo._x
+man steals notebook._mujer rompe sofa viejo._x
+man steals notebook._mujer rompe coche azul._x
+woman breaks car._hombre compra coche._x
+woman breaks car._hombre rompe cuaderno._x
+woman breaks car._hombre roba cuaderno._x
+woman breaks car._mujer rompe coche._x
+woman breaks car._mujer compra sofa._x
+woman breaks car._hombre compra coche viejo._x
+woman breaks car._hombre compra cuaderno nuevo._x
+woman breaks car._hombre compra sofa azul._x
+woman breaks car._hombre rompe coche azul._x
+woman breaks car._mujer roba sofa viejo._x
+woman breaks car._mujer roba cuaderno nuevo._x
+woman breaks car._mujer roba cuaderno rojo._x
+woman breaks car._mujer rompe sofa nuevo._x
+woman breaks car._mujer rompe coche rojo._x
+woman breaks car._hombre compra cuaderno azul._x
+woman breaks car._hombre roba coche viejo._x
+woman breaks car._hombre roba cuaderno rojo._x
+woman breaks car._mujer roba coche viejo._x
+woman breaks car._mujer rompe sofa viejo._x
+woman breaks car._mujer rompe coche azul._x
+woman buys sofa._hombre compra coche._x
+woman buys sofa._hombre rompe cuaderno._x
+woman buys sofa._hombre roba cuaderno._0
+woman buys sofa._mujer rompe coche._x
+woman buys sofa._mujer compra sofa._x
+woman buys sofa._hombre compra coche viejo._x
+woman buys sofa._hombre compra cuaderno nuevo._x
+woman buys sofa._hombre compra sofa azul._x
+woman buys sofa._hombre rompe coche azul._x
+woman buys sofa._mujer roba sofa viejo._x
+woman buys sofa._mujer roba cuaderno nuevo._x
+woman buys sofa._mujer roba cuaderno rojo._x
+woman buys sofa._mujer rompe sofa nuevo._x
+woman buys sofa._mujer rompe coche rojo._x
+woman buys sofa._hombre compra cuaderno azul._x
+woman buys sofa._hombre roba coche viejo._x
+woman buys sofa._hombre roba cuaderno rojo._x
+woman buys sofa._mujer roba coche viejo._x
+woman buys sofa._mujer rompe sofa viejo._x
+woman buys sofa._mujer rompe coche azul._x
+man buys old car._hombre compra coche._x
+man buys old car._hombre rompe cuaderno._x
+man buys old car._hombre roba cuaderno._x
+man buys old car._mujer rompe coche._x
+man buys old car._mujer compra sofa._x
+man buys old car._hombre compra coche viejo._x
+man buys old car._hombre compra cuaderno nuevo._x
+man buys old car._hombre compra sofa azul._x
+man buys old car._hombre rompe coche azul._x
+man buys old car._mujer roba sofa viejo._x
+man buys old car._mujer roba cuaderno nuevo._x
+man buys old car._mujer roba cuaderno rojo._x
+man buys old car._mujer rompe sofa nuevo._x
+man buys old car._mujer rompe coche rojo._x
+man buys old car._hombre compra cuaderno azul._x
+man buys old car._hombre roba coche viejo._x
+man buys old car._hombre roba cuaderno rojo._x
+man buys old car._mujer roba coche viejo._x
+man buys old car._mujer rompe sofa viejo._x
+man buys old car._mujer rompe coche azul._x
+man buys new notebook._hombre compra coche._x
+man buys new notebook._hombre rompe cuaderno._x
+man buys new notebook._hombre roba cuaderno._x
+man buys new notebook._mujer rompe coche._x
+man buys new notebook._mujer compra sofa._x
+man buys new notebook._hombre compra coche viejo._x
+man buys new notebook._hombre compra cuaderno nuevo._1
+man buys new notebook._hombre compra sofa azul._x
+man buys new notebook._hombre rompe coche azul._x
+man buys new notebook._mujer roba sofa viejo._x
+man buys new notebook._mujer roba cuaderno nuevo._x
+man buys new notebook._mujer roba cuaderno rojo._x
+man buys new notebook._mujer rompe sofa nuevo._x
+man buys new notebook._mujer rompe coche rojo._x
+man buys new notebook._hombre compra cuaderno azul._x
+man buys new notebook._hombre roba coche viejo._x
+man buys new notebook._hombre roba cuaderno rojo._x
+man buys new notebook._mujer roba coche viejo._x
+man buys new notebook._mujer rompe sofa viejo._x
+man buys new notebook._mujer rompe coche azul._x
+man buys blue sofa._hombre compra coche._x
+man buys blue sofa._hombre rompe cuaderno._x
+man buys blue sofa._hombre roba cuaderno._x
+man buys blue sofa._mujer rompe coche._x
+man buys blue sofa._mujer compra sofa._x
+man buys blue sofa._hombre compra coche viejo._x
+man buys blue sofa._hombre compra cuaderno nuevo._x
+man buys blue sofa._hombre compra sofa azul._x
+man buys blue sofa._hombre rompe coche azul._x
+man buys blue sofa._mujer roba sofa viejo._x
+man buys blue sofa._mujer roba cuaderno nuevo._x
+man buys blue sofa._mujer roba cuaderno rojo._x
+man buys blue sofa._mujer rompe sofa nuevo._x
+man buys blue sofa._mujer rompe coche rojo._x
+man buys blue sofa._hombre compra cuaderno azul._x
+man buys blue sofa._hombre roba coche viejo._x
+man buys blue sofa._hombre roba cuaderno rojo._x
+man buys blue sofa._mujer roba coche viejo._x
+man buys blue sofa._mujer rompe sofa viejo._x
+man buys blue sofa._mujer rompe coche azul._x
+man breaks blue car._hombre compra coche._x
+man breaks blue car._hombre rompe cuaderno._x
+man breaks blue car._hombre roba cuaderno._x
+man breaks blue car._mujer rompe coche._x
+man breaks blue car._mujer compra sofa._x
+man breaks blue car._hombre compra coche viejo._x
+man breaks blue car._hombre compra cuaderno nuevo._x
+man breaks blue car._hombre compra sofa azul._x
+man breaks blue car._hombre rompe coche azul._x
+man breaks blue car._mujer roba sofa viejo._x
+man breaks blue car._mujer roba cuaderno nuevo._x
+man breaks blue car._mujer roba cuaderno rojo._x
+man breaks blue car._mujer rompe sofa nuevo._x
+man breaks blue car._mujer rompe coche rojo._x
+man breaks blue car._hombre compra cuaderno azul._x
+man breaks blue car._hombre roba coche viejo._x
+man breaks blue car._hombre roba cuaderno rojo._x
+man breaks blue car._mujer roba coche viejo._x
+man breaks blue car._mujer rompe sofa viejo._x
+man breaks blue car._mujer rompe coche azul._x
+woman steals old sofa._hombre compra coche._x
+woman steals old sofa._hombre rompe cuaderno._x
+woman steals old sofa._hombre roba cuaderno._x
+woman steals old sofa._mujer rompe coche._x
+woman steals old sofa._mujer compra sofa._x
+woman steals old sofa._hombre compra coche viejo._x
+woman steals old sofa._hombre compra cuaderno nuevo._x
+woman steals old sofa._hombre compra sofa azul._x
+woman steals old sofa._hombre rompe coche azul._x
+woman steals old sofa._mujer roba sofa viejo._x
+woman steals old sofa._mujer roba cuaderno nuevo._x
+woman steals old sofa._mujer roba cuaderno rojo._x
+woman steals old sofa._mujer rompe sofa nuevo._x
+woman steals old sofa._mujer rompe coche rojo._x
+woman steals old sofa._hombre compra cuaderno azul._x
+woman steals old sofa._hombre roba coche viejo._x
+woman steals old sofa._hombre roba cuaderno rojo._x
+woman steals old sofa._mujer roba coche viejo._x
+woman steals old sofa._mujer rompe sofa viejo._x
+woman steals old sofa._mujer rompe coche azul._x
+woman steals new notebook._hombre compra coche._x
+woman steals new notebook._hombre rompe cuaderno._x
+woman steals new notebook._hombre roba cuaderno._x
+woman steals new notebook._mujer rompe coche._x
+woman steals new notebook._mujer compra sofa._x
+woman steals new notebook._hombre compra coche viejo._x
+woman steals new notebook._hombre compra cuaderno nuevo._x
+woman steals new notebook._hombre compra sofa azul._x
+woman steals new notebook._hombre rompe coche azul._x
+woman steals new notebook._mujer roba sofa viejo._x
+woman steals new notebook._mujer roba cuaderno nuevo._x
+woman steals new notebook._mujer roba cuaderno rojo._x
+woman steals new notebook._mujer rompe sofa nuevo._x
+woman steals new notebook._mujer rompe coche rojo._x
+woman steals new notebook._hombre compra cuaderno azul._x
+woman steals new notebook._hombre roba coche viejo._x
+woman steals new notebook._hombre roba cuaderno rojo._x
+woman steals new notebook._mujer roba coche viejo._x
+woman steals new notebook._mujer rompe sofa viejo._x
+woman steals new notebook._mujer rompe coche azul._x
+woman steals red notebook._hombre compra coche._x
+woman steals red notebook._hombre rompe cuaderno._x
+woman steals red notebook._hombre roba cuaderno._x
+woman steals red notebook._mujer rompe coche._x
+woman steals red notebook._mujer compra sofa._x
+woman steals red notebook._hombre compra coche viejo._x
+woman steals red notebook._hombre compra cuaderno nuevo._x
+woman steals red notebook._hombre compra sofa azul._x
+woman steals red notebook._hombre rompe coche azul._x
+woman steals red notebook._mujer roba sofa viejo._x
+woman steals red notebook._mujer roba cuaderno nuevo._0
+woman steals red notebook._mujer roba cuaderno rojo._1
+woman steals red notebook._mujer rompe sofa nuevo._x
+woman steals red notebook._mujer rompe coche rojo._x
+woman steals red notebook._hombre compra cuaderno azul._x
+woman steals red notebook._hombre roba coche viejo._x
+woman steals red notebook._hombre roba cuaderno rojo._0
+woman steals red notebook._mujer roba coche viejo._x
+woman steals red notebook._mujer rompe sofa viejo._x
+woman steals red notebook._mujer rompe coche azul._x
+woman breaks new sofa._hombre compra coche._x
+woman breaks new sofa._hombre rompe cuaderno._x
+woman breaks new sofa._hombre roba cuaderno._x
+woman breaks new sofa._mujer rompe coche._x
+woman breaks new sofa._mujer compra sofa._x
+woman breaks new sofa._hombre compra coche viejo._x
+woman breaks new sofa._hombre compra cuaderno nuevo._x
+woman breaks new sofa._hombre compra sofa azul._x
+woman breaks new sofa._hombre rompe coche azul._x
+woman breaks new sofa._mujer roba sofa viejo._x
+woman breaks new sofa._mujer roba cuaderno nuevo._x
+woman breaks new sofa._mujer roba cuaderno rojo._x
+woman breaks new sofa._mujer rompe sofa nuevo._x
+woman breaks new sofa._mujer rompe coche rojo._x
+woman breaks new sofa._hombre compra cuaderno azul._x
+woman breaks new sofa._hombre roba coche viejo._x
+woman breaks new sofa._hombre roba cuaderno rojo._x
+woman breaks new sofa._mujer roba coche viejo._x
+woman breaks new sofa._mujer rompe sofa viejo._x
+woman breaks new sofa._mujer rompe coche azul._x
+woman breaks red car._hombre compra coche._x
+woman breaks red car._hombre rompe cuaderno._x
+woman breaks red car._hombre roba cuaderno._x
+woman breaks red car._mujer rompe coche._x
+woman breaks red car._mujer compra sofa._x
+woman breaks red car._hombre compra coche viejo._x
+woman breaks red car._hombre compra cuaderno nuevo._x
+woman breaks red car._hombre compra sofa azul._x
+woman breaks red car._hombre rompe coche azul._x
+woman breaks red car._mujer roba sofa viejo._x
+woman breaks red car._mujer roba cuaderno nuevo._x
+woman breaks red car._mujer roba cuaderno rojo._x
+woman breaks red car._mujer rompe sofa nuevo._x
+woman breaks red car._mujer rompe coche rojo._x
+woman breaks red car._hombre compra cuaderno azul._x
+woman breaks red car._hombre roba coche viejo._x
+woman breaks red car._hombre roba cuaderno rojo._x
+woman breaks red car._mujer roba coche viejo._x
+woman breaks red car._mujer rompe sofa viejo._x
+woman breaks red car._mujer rompe coche azul._0
+man buys blue notebook._hombre compra coche._x
+man buys blue notebook._hombre rompe cuaderno._x
+man buys blue notebook._hombre roba cuaderno._x
+man buys blue notebook._mujer rompe coche._x
+man buys blue notebook._mujer compra sofa._x
+man buys blue notebook._hombre compra coche viejo._x
+man buys blue notebook._hombre compra cuaderno nuevo._x
+man buys blue notebook._hombre compra sofa azul._x
+man buys blue notebook._hombre rompe coche azul._x
+man buys blue notebook._mujer roba sofa viejo._x
+man buys blue notebook._mujer roba cuaderno nuevo._x
+man buys blue notebook._mujer roba cuaderno rojo._x
+man buys blue notebook._mujer rompe sofa nuevo._x
+man buys blue notebook._mujer rompe coche rojo._x
+man buys blue notebook._hombre compra cuaderno azul._x
+man buys blue notebook._hombre roba coche viejo._x
+man buys blue notebook._hombre roba cuaderno rojo._x
+man buys blue notebook._mujer roba coche viejo._x
+man buys blue notebook._mujer rompe sofa viejo._x
+man buys blue notebook._mujer rompe coche azul._x
+man steals old car._hombre compra coche._x
+man steals old car._hombre rompe cuaderno._x
+man steals old car._hombre roba cuaderno._x
+man steals old car._mujer rompe coche._x
+man steals old car._mujer compra sofa._x
+man steals old car._hombre compra coche viejo._x
+man steals old car._hombre compra cuaderno nuevo._x
+man steals old car._hombre compra sofa azul._x
+man steals old car._hombre rompe coche azul._x
+man steals old car._mujer roba sofa viejo._x
+man steals old car._mujer roba cuaderno nuevo._x
+man steals old car._mujer roba cuaderno rojo._x
+man steals old car._mujer rompe sofa nuevo._x
+man steals old car._mujer rompe coche rojo._x
+man steals old car._hombre compra cuaderno azul._x
+man steals old car._hombre roba coche viejo._x
+man steals old car._hombre roba cuaderno rojo._x
+man steals old car._mujer roba coche viejo._x
+man steals old car._mujer rompe sofa viejo._x
+man steals old car._mujer rompe coche azul._x
+man steals red notebook._hombre compra coche._x
+man steals red notebook._hombre rompe cuaderno._x
+man steals red notebook._hombre roba cuaderno._x
+man steals red notebook._mujer rompe coche._x
+man steals red notebook._mujer compra sofa._x
+man steals red notebook._hombre compra coche viejo._x
+man steals red notebook._hombre compra cuaderno nuevo._x
+man steals red notebook._hombre compra sofa azul._x
+man steals red notebook._hombre rompe coche azul._x
+man steals red notebook._mujer roba sofa viejo._x
+man steals red notebook._mujer roba cuaderno nuevo._x
+man steals red notebook._mujer roba cuaderno rojo._0
+man steals red notebook._mujer rompe sofa nuevo._x
+man steals red notebook._mujer rompe coche rojo._x
+man steals red notebook._hombre compra cuaderno azul._x
+man steals red notebook._hombre roba coche viejo._x
+man steals red notebook._hombre roba cuaderno rojo._x
+man steals red notebook._mujer roba coche viejo._x
+man steals red notebook._mujer rompe sofa viejo._x
+man steals red notebook._mujer rompe coche azul._x
+woman steals old car._hombre compra coche._x
+woman steals old car._hombre rompe cuaderno._x
+woman steals old car._hombre roba cuaderno._x
+woman steals old car._mujer rompe coche._x
+woman steals old car._mujer compra sofa._x
+woman steals old car._hombre compra coche viejo._x
+woman steals old car._hombre compra cuaderno nuevo._x
+woman steals old car._hombre compra sofa azul._x
+woman steals old car._hombre rompe coche azul._x
+woman steals old car._mujer roba sofa viejo._x
+woman steals old car._mujer roba cuaderno nuevo._x
+woman steals old car._mujer roba cuaderno rojo._x
+woman steals old car._mujer rompe sofa nuevo._x
+woman steals old car._mujer rompe coche rojo._x
+woman steals old car._hombre compra cuaderno azul._x
+woman steals old car._hombre roba coche viejo._x
+woman steals old car._hombre roba cuaderno rojo._x
+woman steals old car._mujer roba coche viejo._1
+woman steals old car._mujer rompe sofa viejo._x
+woman steals old car._mujer rompe coche azul._x
+woman breaks old sofa._hombre compra coche._x
+woman breaks old sofa._hombre rompe cuaderno._x
+woman breaks old sofa._hombre roba cuaderno._x
+woman breaks old sofa._mujer rompe coche._x
+woman breaks old sofa._mujer compra sofa._x
+woman breaks old sofa._hombre compra coche viejo._x
+woman breaks old sofa._hombre compra cuaderno nuevo._x
+woman breaks old sofa._hombre compra sofa azul._x
+woman breaks old sofa._hombre rompe coche azul._x
+woman breaks old sofa._mujer roba sofa viejo._x
+woman breaks old sofa._mujer roba cuaderno nuevo._x
+woman breaks old sofa._mujer roba cuaderno rojo._x
+woman breaks old sofa._mujer rompe sofa nuevo._x
+woman breaks old sofa._mujer rompe coche rojo._x
+woman breaks old sofa._hombre compra cuaderno azul._x
+woman breaks old sofa._hombre roba coche viejo._x
+woman breaks old sofa._hombre roba cuaderno rojo._x
+woman breaks old sofa._mujer roba coche viejo._x
+woman breaks old sofa._mujer rompe sofa viejo._x
+woman breaks old sofa._mujer rompe coche azul._x
+woman breaks blue car._hombre compra coche._x
+woman breaks blue car._hombre rompe cuaderno._x
+woman breaks blue car._hombre roba cuaderno._x
+woman breaks blue car._mujer rompe coche._x
+woman breaks blue car._mujer compra sofa._x
+woman breaks blue car._hombre compra coche viejo._x
+woman breaks blue car._hombre compra cuaderno nuevo._x
+woman breaks blue car._hombre compra sofa azul._x
+woman breaks blue car._hombre rompe coche azul._x
+woman breaks blue car._mujer roba sofa viejo._x
+woman breaks blue car._mujer roba cuaderno nuevo._x
+woman breaks blue car._mujer roba cuaderno rojo._x
+woman breaks blue car._mujer rompe sofa nuevo._x
+woman breaks blue car._mujer rompe coche rojo._x
+woman breaks blue car._hombre compra cuaderno azul._x
+woman breaks blue car._hombre roba coche viejo._x
+woman breaks blue car._hombre roba cuaderno rojo._x
+woman breaks blue car._mujer roba coche viejo._x
+woman breaks blue car._mujer rompe sofa viejo._x
+woman breaks blue car._mujer rompe coche azul._1

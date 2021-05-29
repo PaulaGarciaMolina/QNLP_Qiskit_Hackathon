@@ -1,0 +1,20 @@
+man buys car.
+man breaks notebook.
+man steals notebook.
+woman breaks car.
+woman buys sofa.
+man buys old car.
+man buys new notebook.
+man buys blue sofa.
+man breaks blue car.
+woman steals old sofa.
+woman steals new notebook.
+woman steals red notebook.
+woman breaks new sofa.
+woman breaks red car.
+man buys blue notebook.
+man steals old car.
+man steals red notebook.
+woman steals old car.
+woman breaks old sofa.
+woman breaks blue car.

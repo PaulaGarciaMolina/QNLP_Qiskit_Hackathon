@@ -1,0 +1,20 @@
+hombre compra coche.
+hombre rompe cuaderno.
+hombre roba cuaderno.
+mujer rompe coche.
+mujer compra sofa.
+hombre compra coche viejo.
+hombre compra cuaderno nuevo.
+hombre compra sofa azul.
+hombre rompe coche azul.
+mujer roba sofa viejo.
+mujer roba cuaderno nuevo.
+mujer roba cuaderno rojo.
+mujer rompe sofa nuevo.
+mujer rompe coche rojo.
+hombre compra cuaderno azul.
+hombre roba coche viejo.
+hombre roba cuaderno rojo.
+mujer roba coche viejo.
+mujer rompe sofa viejo.
+mujer rompe coche azul.
