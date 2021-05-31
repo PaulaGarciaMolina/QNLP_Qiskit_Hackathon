@@ -145,7 +145,7 @@ man buys blue sofa._mujer rompe coche._x
 man buys blue sofa._mujer compra sofa._x
 man buys blue sofa._hombre compra coche viejo._x
 man buys blue sofa._hombre compra cuaderno nuevo._x
-man buys blue sofa._hombre compra sofa azul._1 
+man buys blue sofa._hombre compra sofa azul._1
 man buys blue sofa._hombre rompe coche azul._x
 man buys blue sofa._mujer roba sofa viejo._x
 man buys blue sofa._mujer roba cuaderno nuevo._x
