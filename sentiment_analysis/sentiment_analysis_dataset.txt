@@ -47,6 +47,7 @@ gloomy man shouts._int_1
 gloomy kid cries._int_1
 gloomy kid shouts._int_1
 furious woman shouts._int_2
+furious woman cries._int_2
 furious woman snaps._int_2
 furious man cries._int_2
 furious man shouts._int_2
