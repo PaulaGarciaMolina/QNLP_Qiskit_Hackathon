@@ -1,5 +1,5 @@
 # QNLP Qiskit Hackathon
-Quantum Natural Language Processing (QNLP)'s project repository for Qiskit Hackathon Europe. Team members: Edwin Agnew, Pablo Díez-Valle, María Hit-Pérez, Paula García-Molina, and Carlos Vega
+Quantum Natural Language Processing (QNLP)'s project repository for Qiskit Hackathon Europe. Team members: Edwin Agnew, Pablo Díez-Valle, María Hita-Pérez, Paula García-Molina, and Carlos Vega
 
 ## Outline
 This repository is split into two directories:
