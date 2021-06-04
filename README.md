@@ -7,7 +7,7 @@ This repository is split into two directories:
 - *sentiment_analysis*: notebooks and datasets for classifying sentences into one of your sentiments: happy, sad, angry, scared 
 
 ## Philosophy
-QNLP treats language as a quantum process and interprets sentences as circuits by using categorical quantum mechanics and the ZX-calculus. Rather than assigning meaning to individual words, the key focus is on *how meaning composes*. 
+QNLP treats language as a quantum process and interpets sentences as circuits by using categorical quantum mechanics and the ZX-calculus. Rather than assigning meaning to individual words, the key focus is on *how meaning composes*. 
 
 For an excellent introduction to the mathematical foundations of this approach, see ([Coecke et al.](https://arxiv.org/abs/2012.03755)).
 
@@ -29,13 +29,27 @@ Our methodology is largely based off ([Lorenz et al.](https://arxiv.org/abs/2102
     - *1 versus all*: Train 4 binary classifiers (happy v not happy, sad v not sad, etc.), each evaluated on the entire training set with modified labels. The largest amplitude is chosen as the final prediction. Note that in our results, this was trained with a more limited dataset.
   - **semantic interpretation**:
     - Train a single classifier which computes the similarity between the 2 output qubits of an English sentence circuit and the 2 output qubits of a Spanish circuit. We have tested datasets of different sizes:
-      - Small: 20 English sentences and 20 Spanish sentences.
-      - Medium: 65 English sentences and 65 Spanish sentences.
-      - Big: 90 English sentences and 90 Spanish sentences.   
+      - *Small*: 20 English sentences and 20 Spanish sentences.
+      - *Medium*: 65 English sentences and 65 Spanish sentences.
+      - *Big*: 90 English sentences and 90 Spanish sentences.   
 
 ## Results
 We obtained the following results:
-### Semantic interpretation: ...
+### Semantic interpretation: 
+#### Statevector simulator:
+- *Small*: % (train error), % (test error).
+- *Medium*: % (train error), % (test error).
+- *Big*:  % (train error), % (test error).
+#### Qasm simulator:
+- *Small*: % (train error), % (test error).
+- *Medium*: % (train error), % (test error).
+- *Big*:  % (train error), % (test error).
+#### ibmq_16_melbourne noisy simulator:
+- *Small*: % (train error), % (test error).
+- *Medium*: % (train error), % (test error).
+- *Big*:  % (train error), % (test error).
+
+We performed 1000 iterations of the SPSA optimizer for the Statevector simulator (all sizes), 2000 iterations for the QASM simulator (all sizes), and 2000, 1309, 928 iterations for the noisy simulations with small, medium, and big datasets respectively.
 ### Sentiment analysis: 
 #### Statevector simulator:
 - 1vs1: 63% (cross entropy), 77% (train error).
