@@ -36,6 +36,7 @@ Our methodology is largely based off ([Lorenz et al.](https://arxiv.org/abs/2102
 ## Results
 We obtained the following results:
 ### Semantic interpretation: 
+The test set accuracies are (the cost function appears between brackets):
 #### Statevector simulator:
 - *Small*: % (train error), % (test error).
 - *Medium*: % (train error), % (test error).
