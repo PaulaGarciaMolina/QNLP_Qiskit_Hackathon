@@ -1,5 +1,5 @@
 # QNLP Qiskit Hackathon
-Quantum Natural Language Processing (QNLP)'s project repository for Qiskit Hackathon Europe. Team members: Edwin Agnew, Pablo Díez-Valle, María Hita-Pérez, Paula García-Molina, and Carlos Vega
+Quantum Natural Language Processing (QNLP)'s project repository for Qiskit Hackathon Europe. Team members: Edwin Agnew, Pablo Díez-Valle, Paula García-Molina, María Hita-Pérez,  and Carlos Vega
 
 ## Outline
 This repository is split into two directories:
@@ -15,8 +15,10 @@ Our methodology is largely based off (Lorenz et al.) and (Other) and uses the fo
 
 ## Results
 We obtained the following results:
-- Semantic interpretation: ...
-- Sentiment analysis: 70% accuracy using a multi-class classifier and 90% accuracy using 6 1 versus 1 classifiers.
+### Semantic interpretation: ...
+### Sentiment analysis: 
+#### Statevector simulator:
+- 1vs1:
 
 For more details see our report here (link).
 
