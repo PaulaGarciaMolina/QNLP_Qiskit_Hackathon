@@ -65,7 +65,7 @@ We performed 1000 iterations of the SPSA optimizer for the Statevector simulator
 
 ## Notes
 
-- For more details see our report here (https://qiskithackathoneurope.bemyapp.com/#/projects/607ea6bee7ac7d00192d2a5d).
+- For more details see our final report (contained in this repository).
 - Our results could easily be expanded to include more qasm simulations and real device experiments, but we were unable to report them here because of time constraints and the code being quite slow since it has to create and evaluate 2 circuits per train sentence per iteration.
 - Although not used in our project, a DiscoCat sentence parser is now available at https://qnlp.cambridgequantum.com/generate.html
 
