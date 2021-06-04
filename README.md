@@ -38,17 +38,17 @@ We obtained the following results:
 ### Semantic interpretation: 
 The test set accuracies are (the cost function appears between brackets):
 #### Statevector simulator:
-- *Small*: % (train error), % (test error).
-- *Medium*: % (train error), % (test error).
-- *Big*:  % (train error), % (test error).
+- *Small*: 20% (train error).
+- *Medium*: 65% (train error).
+- *Big*:  62% (train error).
 #### Qasm simulator:
-- *Small*: % (train error), % (test error).
-- *Medium*: % (train error), % (test error).
-- *Big*:  % (train error), % (test error).
+- *Small*: 75% (train error).
+- *Medium*: 62% (train error).
+- *Big*:  53% (train error).
 #### ibmq_16_melbourne noisy simulator:
-- *Small*: % (train error), % (test error).
-- *Medium*: % (train error), % (test error).
-- *Big*:  % (train error), % (test error).
+- *Small*: 64% (train error).
+- *Medium*: 72% (train error).
+- *Big*:  61% (train error).
 
 We performed 1000 iterations of the SPSA optimizer for the Statevector simulator (all sizes), 2000 iterations for the QASM simulator (all sizes), and 2000, 1309, 928 iterations for the noisy simulations with small, medium, and big datasets respectively.
 ### Sentiment analysis: 
