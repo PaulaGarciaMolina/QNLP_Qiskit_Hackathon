@@ -19,7 +19,7 @@ Our methodology is largely based off ([Lorenz et al.](https://arxiv.org/abs/2102
   - Derive types for other word: n @ n.l for English adjectives, n.r @ s @ n.l for transitive verbs, etc.
   - Parse a sentence according to its grammatical structure and plug the words together using cups and caps according to their respective types
 - Convert sentence diagrams into parameterized quantum circuits
-  - Choose how many qubits are required to represent the basic types: we typically used 2 qubits for sentences and 1 qubit for nouns
+  - Choose how many qubits are required to represent the basic types: 2 qubits for sentences and 1 qubit for nouns, 2 and 2 or 1 and 1.
   - Choose an ansatz (we used the IQP ansatz due to its effectiveness in ([Lorenz et al.](https://arxiv.org/abs/2102.12846)))
   - Construct a functor which turns a sentence diagram into a parameterized quantum circuit, based off the chosen ansatz. 
 - Optimize parameters by applying the SPSA variational algorithm on training sentences and cross entropy as the cost function. This differed slightly in each of our implementations:
