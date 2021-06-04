@@ -24,7 +24,7 @@ Our methodology is largely based off ([Lorenz et al.](https://arxiv.org/abs/2102
   - **sentiment analysis**:
     - *2 qubit multi-classification* : train a single classifier evaluated on the entire training set. The 2 qubit output (|00>, |01>, |10> or |11>) corresponds to one of our four sentiments. 
     - *1 versus 1*: Train 6 1v1 binary classifiers (happy v sad, happy v angry, etc.), each evaluated on a restricted training set of sentences corresponding to either label. The most popular prediction is chosen as the final output. By using a binary classifier, a sentence can be represented with a single qubit which halves the number of parameters to be optimized.
-    - *1 versus all*: Train 4 binary classifiers (happy v not happy, sad v not sad, etc.), each evaluated on the entire training set with modified labels. The largest amplitude is chosen as the final prediction.
+    - *1 versus all*: Train 4 binary classifiers (happy v not happy, sad v not sad, etc.), each evaluated on the entire training set with modified labels. The largest amplitude is chosen as the final prediction. Note that in our results, this was trained with a more limited dataset.
   - **semantic interpretation**:
     - Train a single classifier which computes the similarity between the 2 output qubits of an English sentence circuit and the 2 output qubits of a Spanish circuit.
 
