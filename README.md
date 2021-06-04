@@ -18,7 +18,15 @@ We obtained the following results:
 ### Semantic interpretation: ...
 ### Sentiment analysis: 
 #### Statevector simulator:
-- 1vs1:
+- 1vs1: 63% (cross entropy), 77% (train error).
+- 1vsAll: 75% (cross entropy).
+- 2-qubit: 81 % (cross entropy).
+#### Qasm simulator:
+- 1vs1: 79% (cross entropy), 87% (train error).
+#### ibmq_16_melbourne noisy simulator:
+- 1vs1: 78% (cross entropy).
+
+1vs1 results are for 2000 iterations of the SPSA optimizer, except for the noisy simulations (500 iterations) due to time requirements. For 1vsAll and 2-qubit multi-class classification we perform 1250 iterations.
 
 For more details see our report here (link).
 
