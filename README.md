@@ -3,7 +3,7 @@ Quantum Natural Language Processing (QNLP)'s project repository for Qiskit Hacka
 
 ## Outline
 This repository is split into two directories:
-- *semantic_interpretation*: notebooks and datasets for determining similarity between English and Spanish sentences
+- *semantic_interpretation*: notebook and datasets for determining similarity between English and Spanish sentences
 - *sentiment_analysis*: notebooks and datasets for classifying sentences into one of your sentiments: happy, sad, angry, scared 
 
 ## Philosophy
