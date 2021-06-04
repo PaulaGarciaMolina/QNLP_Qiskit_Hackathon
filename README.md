@@ -48,7 +48,7 @@ We obtained the following results:
 ## Notes
 
 - For more details see our report here (link).
-- Our results could easily be expanded to include more qasm simulations and real device experiments, but we were unable to report them here because of time constraints.
+- Our results could easily be expanded to include more qasm simulations and real device experiments, but we were unable to report them here because of time constraints and the code being quite slow since it has to create and evaluate 2 circuits per train sentence per iteration.
 - Although not used in our project, a DiscoCat sentence parser is now available at https://qnlp.cambridgequantum.com/generate.html
 
 
