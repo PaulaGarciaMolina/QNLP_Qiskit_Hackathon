@@ -7,7 +7,7 @@ This repository is split into two directories:
 - *sentiment_analysis*: notebooks and datasets for classifying sentences into one of your sentiments: happy, sad, angry, scared 
 
 ## Philosophy
-QNLP treats language as a quantum process and interpets sentences as circuits by using categorical quantum mechanics and the ZX-calculus. Rather than assigning meaning to individual words, the key focus is on *how meaning composes*. 
+QNLP treats language as a quantum process and interprets sentences as circuits by using categorical quantum mechanics and the ZX-calculus. Rather than assigning meaning to individual words, the key focus is on *how meaning composes*. 
 
 For an excellent introduction to the mathematical foundations of this approach, see ([Coecke et al.](https://arxiv.org/abs/2012.03755)).
 
