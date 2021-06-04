@@ -22,7 +22,7 @@ Our methodology is largely based off ([Lorenz et al.](https://arxiv.org/abs/2102
   - Choose how many qubits are required to represent the basic types: 2 qubits for sentences and 1 qubit for nouns, 2 and 2 or 1 and 1.
   - Choose an ansatz (we used the IQP ansatz due to its effectiveness in ([Lorenz et al.](https://arxiv.org/abs/2102.12846)))
   - Construct a functor which turns a sentence diagram into a parameterized quantum circuit, based off the chosen ansatz. 
-- Optimize parameters by applying the SPSA variational algorithm on training sentences and cross entropy as the cost function. This differed slightly in each of our implementations:
+- Optimize parameters by applying the SPSA variational algorithm on training sentences and cross entropy as the cost function (or train error). This differed slightly in each of our implementations:
   - **sentiment analysis**:
     - *2 qubit multi-classification* : train a single classifier evaluated on the entire training set. The 2 qubit output (|00>, |01>, |10> or |11>) corresponds to one of our four sentiments. 
     - *1 versus 1*: Train 6 1v1 binary classifiers (happy v sad, happy v angry, etc.), each evaluated on a restricted training set of sentences corresponding to either label. The most popular prediction is chosen as the final output. By using a binary classifier, a sentence can be represented with a single qubit which halves the number of parameters to be optimized.
